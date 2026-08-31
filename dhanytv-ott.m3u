@@ -1982,6 +1982,10 @@ https://tv-stream-test.daydreamer-json.cc/fe8bf835820fb530467f75a9cb761504/maste
 #EXTINF:-1 tvg-id="JOTXDTV.jp@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/TV_Tokyo_%28Japanese%29_2023.svg/960px-TV_Tokyo_%28Japanese%29_2023.svg.png" group-title="Japan",JOTX-DTV
 https://tvtokyo.mov3.co/hls/tvtokyo.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="MTV.jp@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/960px-MTV_2021_%28brand_version%29.svg.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" group-title="Japan",MTV
+https://42.118.247.37:9394/stream/74.m3u8
+
 #EXTINF:-1 tvg-id="QVC.jp@SD" tvg-logo="https://i.imgur.com/6TWUVrh.png" group-title="Japan",QVC (1080p)
 https://d1flvb4iqlercm.cloudfront.net/live/live_1080p_2nd.m3u8
 
@@ -2645,6 +2649,9 @@ https://streaming005.gestec-video.com/hls/canal24.m3u8
 #EXTINF:-1 tvg-id="12tv.es@SD" tvg-logo="https://i.imgur.com/VSTgXsh.png" http-referrer="https://player.streamingconnect.com/" group-title="Spain",12TV Alicante (720p)
 https://cloud.fastchannel.es/mic/manifiest/hls/12tv/12tv.m3u8
 
+#EXTINF:-1 tvg-id="7Gold.it@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/7gold.jpg/960px-7gold.jpg" group-title="Italy",7 Gold (1080p)
+https://streamcdnr6-dddfac816632463dac50b21109dc1bb3.msvdn.net/live/S58803518/OOZape6Nxp4H/playlist.m3u8
+
 #EXTINF:-1 tvg-id="16AnnieIncinta.de@IT" tvg-logo="https://images.pluto.tv/channels/60940a07d88ba90007b9cb71/colorLogoPNG.png" group-title="Italy",16 Anni e Incinta
 https://jmp2.uk/plu-60940a07d88ba90007b9cb71.m3u8
 
@@ -2665,9 +2672,6 @@ https://5e73cf528f404.streamlock.net/GR_sport/livestream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AlmaTV.it@SD" tvg-logo="https://i.imgur.com/MfFOnJp.png" group-title="Italy",Alma TV (576p)
 https://151.0.207.99:1935/AlmaTv/AlmaTv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Andromeda.us@Italy" tvg-logo="https://i.imgur.com/6ot2lmd.png" group-title="Italy",Andromeda Italy (720p)
-https://jmp2.uk/plu-60802d37ee238e0007c94e64.m3u8
 
 #EXTINF:-1 tvg-id="AELatinAmerica.us@Brazil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/960px-A%26E_Network_logo.svg.png" group-title="Brazil",A&E Latin America Brazil (720p)
 https://45.190.28.50/AE_HD/index.m3u8
@@ -2931,10 +2935,6 @@ https://live.15plusmg.ru/memfs/b389173a-df4e-4171-8904-e249893e71eb.m3u8
 
 # <============================================================== International Channels ==================================================>
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="MTV.jp@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/960px-MTV_2021_%28brand_version%29.svg.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" group-title="Japan",MTV
-http://42.118.247.37:9394/stream/74.m3u8
-
 #EXTINF:-1 tvg-id="NHKGeneralTV.jp@SD" tvg-logo="https://i.imgur.com/fAZ2BEZ.png" group-title="Japan",NHK General TV (720p)
 https://nhk4.mov3.co/hls/nhk.m3u8
 
@@ -3003,17 +3003,8 @@ http://onair.cdn.tvchosun.com/origin1/_definst_/tvchosun_s1/playlist.m3u8
 #EXTINF:-1 tvg-id="7SMusic.in@SD" tvg-logo="https://i.imgur.com/zDiIhdN.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="India",7S Music (576p)
 http://103.175.73.12:8080/live/771/master.m3u8
 
-#EXTINF:-1 tvg-id="Andflix.in@HD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022J67W.png?lock=720x540" group-title="India",&flix HD (1080p)
-http://103.72.101.252:8080/live/1322.m3u8
-
 #EXTINF:-1 tvg-id="Andpictures.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002FYK4V.png?lock=720x540" group-title="India",&pictures (720p)
 https://tvsen3.aynaott.com/jzT482XQ/index.m3u8
-
-#EXTINF:-1 tvg-id="Andpictures.in@HD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022J67R.png?lock=720x540" group-title="India",&pictures HD (1080p)
-http://103.72.101.252:8080/live/185.m3u8
-
-#EXTINF:-1 tvg-id="AndxplorHD.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDXPLOR_HD/images/LOGO_HD/LOGO_HD_image.png" group-title="India",&xplor HD (1080p)
-http://149.71.34.166:8000/play/a001/index.m3u8
 
 #EXTINF:-1 tvg-id="AajTak.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_AAJ_TAK/images/LOGO_HD/image.png" group-title="India",Aaj Tak (1080p)
 http://103.213.31.109:90/AajtakHD/playlist.m3u8
@@ -3076,6 +3067,15 @@ https://amg02159-kcglobal-amg02159c1-samsung-in-521.playouts.now.amagi.tv/playli
 
 #EXTINF:-1 tvg-id="AnjanTV.in@SD" tvg-logo="https://i.imgur.com/sh0yFSf.png" group-title="India",Anjan TV (720p)
 https://anjan.vstream.online/anjanorg/ngrp:anjan_hdall/playlist.m3u8
+
+#EXTINF:-1 tvg-id="APN.in@SD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/APN.png" group-title="India",APN (576p)
+https://mumt01.tangotv.in/O5aw8Zn3APN/index.m3u8
+
+#EXTINF:-1 tvg-id="ApnaPunjabTV.ca@SD" tvg-logo="https://i.imgur.com/IM4D8Wz.png" group-title="India",Apna Punjab TV (720p)
+https://plus.gigabitcdn.net/live-stream/apna-punjab-H3sE/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AradanaTV.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s142649_ld_h9_aa.png?lock=720x540" group-title="India",Aradana TV (576p)
+https://cdn-1.pishow.tv/live/961/master.m3u8
 
 #EXTINF:-1 tvg-id="DLTV6.th@SD" tvg-logo="https://i.imgur.com/qeIHWC0.png" group-title="Thailand",DLTV 6 (1080p)
 https://cdn-live.dltv.ac.th/dltv06.m3u8
@@ -3613,14 +3613,14 @@ https://jmp2.uk/plu-5f1acce7f17797000718f9be.m3u8
 #EXTINF:-1 tvg-id="AngelTV.in@Spanish" tvg-logo="https://i.imgur.com/qKLEGU7.png" group-title="Spain",Angel TV Spanish (720p)
 https://janya-digimix.akamaized.net/vglive-sk-351398/spanish/ngrp:angelspanish_all/playlist.m3u8
 
-#EXTINF:-1 tvg-id="7Gold.it@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/7gold.jpg/960px-7gold.jpg" group-title="Italy",7 Gold (1080p)
-https://streamcdnr6-dddfac816632463dac50b21109dc1bb3.msvdn.net/live/S58803518/OOZape6Nxp4H/playlist.m3u8
-
 #EXTINF:-1 tvg-id="20.it@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/20_Mediaset_2018.svg/960px-20_Mediaset_2018.svg.png" group-title="Italy",20 Mediaset [Geo-blocked]
 https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(lb)/index.m3u8
 
 #EXTINF:-1 tvg-id="Twentyseven.it@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Twentyseven_logo.svg/960px-Twentyseven_logo.svg.png" group-title="Italy",27 TwentySeven [Geo-blocked]
 https://live2.msf.cdn.mediaset.net/content/hls_h0_cls_vos/live/channel(ts)/index.m3u8
+
+#EXTINF:-1 tvg-id="Andromeda.us@Italy" tvg-logo="https://i.imgur.com/6ot2lmd.png" group-title="Italy",Andromeda Italy (720p)
+https://jmp2.uk/plu-60802d37ee238e0007c94e64.m3u8
 
 #EXTINF:-1 tvg-id="AntennaSud.it@SD" tvg-logo="https://i.imgur.com/Sf0bA4P.png" group-title="Italy",Antenna Sud (720p)
 https://live.antennasudwebtv.it:9443/hls/vod.m3u8
