@@ -1925,8 +1925,8 @@ https://vod2.abn.co.kr/IPHONE/abn.m3u8
 #EXTINF:-1 tvg-id="Arirang.id" tvg-logo="https://i.imgur.com/Asu5pE9.png" group-title="Korea",Arirang TV (1080p)
 https://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Arirang.id" tvg-logo="https://i.imgur.com/Asu5pE9.png" group-title="Korea",Arirang TV HD (720p)
-https://45.162.64.114/ARIRANG/index.m3u8
+#EXTINF:-1 tvg-id="Arirang.id" tvg-logo="https://i.imgur.com/Asu5pE9.png" group-title="Korea",Arirang TV HD (1080p)
+https://freem3u.xyz/api/live/play.m3u8?vid=111
 
 #EXTINF:-1 tvg-id="BBSTV.kr@SD" tvg-logo="https://i.imgur.com/01UmXRe.png" group-title="Korea",BBS TV (South Korea) (1080p)
 http://bbstv.clouducs.com:1935/bbstv-live/livestream/playlist.m3u8
@@ -2135,6 +2135,9 @@ https://liveh12.vtvprime.vn/hls/ANNINHTV/index.m3u8
 #EXTINF:-1 tvg-id="AsianFoodNetwork.sg@Vietnam" tvg-logo="https://i.imgur.com/pux6WN8.png" group-title="Vietnam",Asian Food Network Vietnam (1080p)
 https://freem3u.xyz/api/live/play.m3u8?vid=215
 
+#EXTINF:-1 tvg-id="BinhThuanTV.vn@SD" tvg-logo="" group-title="Vietnam",Binh Thuan TV (1080p) [Geo-blocked]
+https://1011154949.vnns.net/CDN-FPT02/BINHTHUAN-SD-720p/playlist.m3u8
+
 #EXTINF:-1 tvg-id="CaMauTV.vn@SD" tvg-logo="" group-title="Vietnam",Ca Mau TV (720p) [Geo-blocked]
 https://tv.ctvcamau.vn/live/tv/tv.m3u8
 
@@ -2143,9 +2146,6 @@ https://live.canthotv.vn/cs2/live.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CanThoTV.vn@SD" tvg-logo="https://i.ibb.co/MDhNH26J/cantho1-2025.png" group-title="Vietnam",Can Tho TV (1080p)
 https://live.canthotv.vn/live/tv/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="CaoBangTV.vn@SD" tvg-logo="https://i.imgur.com/dGonewm.png" group-title="Vietnam",Cao Bang TV (720p)
-https://stream.thingnet.vn/live/smil:CRTV.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="4UTV.tr@SD" tvg-logo="https://i.imgur.com/PexhKwp.png" group-title="Turkey",4U TV (720p)
 https://hls.4utv.live/hls/stream.m3u8
@@ -2890,9 +2890,6 @@ https://stream.mcquack.net/180/index.m3u8
 
 # <============================================================== International Channels ==================================================>
 
-#EXTINF:-1 tvg-id="ArirangTV.kr@HD" tvg-logo="https://i.imgur.com/Asu5pE9.png" group-title="Korea",Arirang TV HD (1080p)
-https://freem3u.xyz/api/live/play.m3u8?vid=111
-
 #EXTINF:-1 tvg-id="HomeShopping.kr@SD" tvg-logo="https://i.imgur.com/IcexRXG.png" group-title="Korea",Home & Shopping (720p)
 https://s28.qtcdn.co.kr/media/liveM3U8/idx/518045142/enc/1860408350/playlist.m3u8
 
@@ -2949,6 +2946,9 @@ http://d26sxnc75smwvh.cloudfront.net/livehttporigin/rutclive_720p2.stream/playli
 
 #EXTINF:-1 tvg-id="ShinsegaeTVShopping.kr@SD" tvg-logo="https://i.imgur.com/Hq3yjqA.png" group-title="Korea",Shinsegae TV Shopping (720p)
 https://liveout.catenoid.net/live-02-shinsegaetvshopping/shinsegaetvshopping_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ShoppingNT.kr@SD" tvg-logo="https://i.imgur.com/BgbJp5X.png" group-title="Korea",Shopping NT (720p)
+https://live.shoppingntmall.com/live/10011.m3u8
 
 #EXTINF:-1 tvg-id="AasthaGujarati.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Aastha_Tamil.png" group-title="India",Aastha Gujarati (576p)
 https://mumt04.tangotv.in/m18aqlK4AASTHAGUJARATI/index.m3u8
@@ -3064,14 +3064,11 @@ https://lb1-live-mv.v2h-cdn.com/hls/ffbf/ugvhgvh/ugvhgvh.m3u8
 #EXTINF:-1 tvg-id="SMNI.ph@SD" tvg-logo="https://i.imgur.com/9QhVnqY.jpg" group-title="Philippines",SMNI (720p)
 https://stream.kdlc.click/hls/0/stream.m3u8
 
-#EXTINF:-1 tvg-id="tvNAsia.hk@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/960px-Logo_tvN.svg.png" group-title="Philippines",tvN Asia HD (720p)
-http://58.8.186.128:10005/bysid/2518
-
 #EXTINF:-1 tvg-id="VegasLifeTV.us@HD" tvg-logo="https://i.imgur.com/G7lONcu.png" group-title="Philippines",Vegas Life TV (1080p)
 https://cdn.vegasplus.us/vegas/vltv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="BinhThuanTV.vn@SD" tvg-logo="" group-title="Vietnam",Binh Thuan TV (1080p) [Geo-blocked]
-https://1011154949.vnns.net/CDN-FPT02/BINHTHUAN-SD-720p/playlist.m3u8
+#EXTINF:-1 tvg-id="CaoBangTV.vn@SD" tvg-logo="https://i.imgur.com/dGonewm.png" group-title="Vietnam",Cao Bang TV (720p)
+https://stream.thingnet.vn/live/smil:CRTV.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="DaVinciAsia.de@Vietnam" tvg-logo="https://i.imgur.com/iBx7K1M.png" group-title="Vietnam",Da Vinci Asia Vietnam (1080p)
 https://freem3u.xyz/api/live/play.m3u8?vid=214
@@ -3097,6 +3094,24 @@ http://tldigital-17th06day-tl9648290.duckdns.org/tv.m3u8
 #EXTINF:-1 tvg-id="HaTinhTV.vn@SD" tvg-logo="https://i.imgur.com/4yIgKKx.png" group-title="Vietnam",Ha Tinh TV (720p)
 https://cohauw9bgpvod.vcdn.cloud/httv1/index.m3u8
 
+#EXTINF:-1 tvg-id="beINSports1Turk.tr@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/27/BeinSports1.svg/revision/latest?cb=20230910184457" group-title="Turkey",beIN Sports 1 Turk
+https://andro.mangeinde4.lat/checklist/androstreamlivebs1.m3u8
+
+#EXTINF:-1 tvg-id="beINSports2Turk.tr@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/40/BeinSports2.svg/revision/latest?cb=20230910185720" group-title="Turkey",beIN Sports 2 Turk
+https://andro.mangeinde4.lat/checklist/androstreamlivebs2.m3u8
+
+#EXTINF:-1 tvg-id="beINSports3Turk.tr@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/53/BeIN_Sports_3_2017_Rectangle.png/revision/latest/scale-to-width-down/1000?cb=20251213114000" group-title="Turkey",beIN Sports 3 Turk
+https://andro.mangeinde4.lat/checklist/androstreamlivebs3.m3u8
+
+#EXTINF:-1 tvg-id="beINSports4Turk.tr@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/96/Logo_bein_sports_4.png/revision/latest/scale-to-width-down/1000?cb=20251213115820" group-title="Turkey",beIN Sports 4 Turk
+https://andro.mangeinde4.lat/checklist/androstreamlivebs4.m3u8
+
+#EXTINF:-1 tvg-id="beINSports5Turk.tr@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/14/BeIN%2Bsports%2B5.png/revision/latest/scale-to-width-down/1000?cb=20251214104942" group-title="Turkey",beIN Sports 5 Turk
+https://andro.mangeinde4.lat/checklist/androstreamlivebs5.m3u8
+
+#EXTINF:-1 tvg-id="beINSportsHaber.tr@SD" tvg-logo="https://i.imgur.com/QWo0x7S.jpg" group-title="Turkey",beIN Sports Haber
+https://andro.mangeinde4.lat/checklist/androstreamlivebsh.m3u8
+
 #EXTINF:-1 tvg-id="BenguturkTV.tr@SD" tvg-logo="https://i.imgur.com/p3ON1oX.png" group-title="Turkey",Benguturk TV (1080p)
 http://185.234.111.229:8000/play/a05u
 
@@ -3117,24 +3132,6 @@ https://cdn-cekmekoybeltv.yayin.com.tr/cekmekoybeltv/cekmekoybeltv_1080p/playlis
 
 #EXTINF:-1 tvg-id="CNBCe.tr@SD" tvg-logo="https://s.cnbce.com/dist/images/logo-nav.png" group-title="Turkey",CNBC-e
 https://hnpsechtsc.turknet.ercdn.net/xpnvudnlsv/cnbc-e/cnbc-e.m3u8
-
-#EXTINF:-1 tvg-id="DisneyJr.tr@SD" tvg-logo="https://www.dsmart.com.tr/api/v1/public/images/kanallar/disneyjr.png" group-title="Turkey",Disney Jr. (Turkiye) (1080p) [Geo-blocked]
-https://saran-live.ercdn.net/disneyjunior/index.m3u8
-
-#EXTINF:-1 tvg-id="DiyanetTV.tr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Diyanet_TV_logo.svg/960px-Diyanet_TV_logo.svg.png" group-title="Turkey",Diyanet TV (1080p)
-https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="DiyarTV.tr@SD" tvg-logo="https://i.imgur.com/qWkHjRA.png" group-title="Turkey",Diyar TV (720p)
-https://live.artidijitalmedya.com/artidijital_diyartv/diyartv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="DostTV.tr@SD" tvg-logo="https://dosttv.com/wp-content/uploads/2022/02/dost_logo.png" group-title="Turkey",Dost TV (576p)
-https://dost.stream.emsal.im/tv/live.m3u8
-
-#EXTINF:-1 tvg-id="DreamTurk.tr@SD" tvg-logo="https://i.imgur.com/vJ8VaZi.png" group-title="Turkey",Dream Turk (720p)
-https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8
-
-#EXTINF:-1 tvg-id="EdessaTV.tr@SD" tvg-logo="https://i.imgur.com/rhU6j9I.png" group-title="Turkey",Edessa TV (1080p)
-https://canli.edessatv.com/hls/stream.m3u8
 
 #EXTINF:-1 tvg-id="ABNUrdu.us@SD" tvg-logo="https://i.imgur.com/Y9ScPIl.png" group-title="Pakistan",ABN Urdu (540p)
 https://mediaserver.abnvideos.com/streams/abnurdu.m3u8
